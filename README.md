@@ -1,9 +1,6 @@
 # Baseball-Schedule-Generator-Requirements
 
-HIgh-Level Goal: Create a C# class library that will produce a plausible 162 game schedule for all 30 MLB teams.
-
-Considerations to set aside (for now): Unplanned events that would require adjusting the schedule, such as weather or known events that would normally
-have to be scheduled around (stadium is unavailable due to a concert or event). These possibilities may be considered in the future.
+HIgh-Level Goal: Create a C# class library that will produce a realistic proposed 162 game schedule for all 30 MLB teams.
 
 Known Facts:
 
