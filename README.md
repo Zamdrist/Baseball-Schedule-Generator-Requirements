@@ -12,10 +12,10 @@ Known Facts:
 in games succession.
 
 * In division:
-** 2 3 4 at home, 3 3 4 on the road
-** 3 3 3 at home, 3 3 4 on the road
-** 3 3 4 at home, 2 3 4 on the road
-** 3 3 4 at home, 3 3 3 on the road
+  2 3 4 at home, 3 3 4 on the road
+  3 3 3 at home, 3 3 4 on the road
+  3 3 4 at home, 2 3 4 on the road
+  3 3 4 at home, 3 3 3 on the road
 
 * For interdivision play:
 ** 3 teams are 3 at home, 4 on the road
