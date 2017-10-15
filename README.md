@@ -10,5 +10,20 @@ Known Facts:
 * Every team plays 81 AWAY games
 * Matchups should be distributed as evenly as possible. For example, two teams should not play a disportionate number of their 
 in games succession.
-* Searies of games occur in increments of 3 or 4 matchups against the same team. Two-game matchups can be scheduled to fill any gaps.
-* 19 games × 4 opponents within same division (76 games), 6 or 7 games x 10 opponents interdivision within same league (66 games), 20 interleague games
+
+* In division:
+** 2 3 4 at home, 3 3 4 on the road
+** 3 3 3 at home, 3 3 4 on the road
+** 3 3 4 at home, 2 3 4 on the road
+** 3 3 4 at home, 3 3 3 on the road
+
+* For interdivision play:
+** 3 teams are 3 at home, 4 on the road
+** 3 teams are 4 at home, 3 on the road
+** 4 teams are 3 at home, 3 on the road
+
+* Interleague play:
+** 2 teams are 3 at home
+** 2 teams are 3 at the road
+** 1 team is 2 at home, 2 on the road
+** 2 at home and 2 on the road
